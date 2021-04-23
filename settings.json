@@ -1,0 +1,19 @@
+{
+  "editor.formatOnSave": true,
+  "[rust]": {
+    "editor.defaultFormatter": "statiolake.vscode-rustfmt"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 13,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Atom One Dark",
+}
